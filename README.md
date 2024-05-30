@@ -1,3 +1,3 @@
 # C
 
-Learning C from "The C Programming Language(Second Edition)"
+Learning C from "Beej's Guide to C programming"
